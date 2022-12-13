@@ -1,7 +1,7 @@
 ## Minimum and Maximum Value 
 
 
-### This program prints the entered numbers to the screen and finds the minimum and maximum value among the numbers.
+### This program prints the maximum and minimum value among the entered numbers.
 
 
 ---
